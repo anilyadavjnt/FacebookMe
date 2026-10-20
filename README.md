@@ -1,4 +1,4 @@
-# Facebook iOS App 📱
+# FacebookMe iOS App 📱
 
 A Facebook-inspired social media application built for iOS using Swift and UIKit. This project focuses on creating a user-friendly social networking experience with a clean interface and essential social media features.
 
